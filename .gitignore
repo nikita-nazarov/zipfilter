@@ -1,0 +1,7 @@
+.vscode
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-zipfilter
+MODULE.bazel.lock
+.DS_Store
